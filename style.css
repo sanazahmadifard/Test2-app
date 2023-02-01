@@ -1,0 +1,51 @@
+body {
+  background: #cadefc;
+}
+ul {
+  list-style: none;
+}
+.tempreture {
+  font-weight: bolder;
+  font-size: 50px;
+  line-height: 50px;
+  color: black;
+}
+.btn-primary {
+  padding: 0px 50px;
+  font-weight: bold;
+}
+.btn-secondry {
+  background-color: rgb(117, 192, 241);
+  padding: 5px 55px;
+  color: white;
+  font-weight: bold;
+}
+li {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+h1 {
+  color: blue;
+}
+.col-5 {
+  margin-left: 0 auto;
+}
+.container {
+  margin: 50px 100px;
+  border-style: dashed;
+  border-color: rgb(156, 156, 245);
+  padding: 20px 0px 50px 20px;
+  border-radius: 10px;
+}
+p {
+  font-family: fantasy;
+  color: rgb(88, 83, 83);
+}
+.unit {
+  position: relative;
+  top: -34px;
+}
+.date {
+  color: rgb(49, 49, 156);
+  font-style: italic;
+  font-weight: bold;
+}
